@@ -1,4 +1,5 @@
 # 2023_MLB_Playoff_Predictions_And_Realignment-Project-4
+# PART A
 # MLB Playoff Team Prediction
 
 This repository contains code for predicting MLB postseason contenders using machine learning and hyperparameter tuning. Additionally, it includes a presentation that explains the code's functionality and presents the results of the prediction.
@@ -54,6 +55,7 @@ The presentation is designed to be informative and visually appealing, making it
 
 Team statistics were collected from https://www.baseball-reference.com/
 
+# PART B
 # MLB Team Realignment
 
 This repository contains code for realigning sports teams into new divisions to optimize travel efficiency. Additionally, it includes a presentation that explains the code's functionality and presents the results of the realignment process.
@@ -102,3 +104,12 @@ The presentation is designed to be informative and visually appealing, making it
 - The code uses the `stadiums.csv` dataset, which should contain information about team names, leagues, divisions, latitude, and longitude.
 
 Team statistics were collected from https://www.baseball-reference.com/
+
+# Constributors
+- Anna Garcia
+- Adolfo Linarez
+- Graham Jaeger
+- Lamin Burrow
+- Nelson Linarez
+
+# Used
