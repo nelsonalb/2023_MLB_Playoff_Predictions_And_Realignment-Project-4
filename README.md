@@ -112,4 +112,7 @@ Team statistics were collected from https://www.baseball-reference.com/
 - Lamin Burrow
 - Nelson Linarez
 
-# Used
+# Technologies Used
+- Python Pandas
+- Python Matplotlib
+- Tableau
