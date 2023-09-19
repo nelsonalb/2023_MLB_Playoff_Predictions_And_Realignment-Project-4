@@ -30,7 +30,7 @@ The code is structured as follows:
 
 ## Presentation
 
-The PowerPoint presentation (`presentation.pptx`) provides an overview of the code's functionality and the results of the prediction. It includes the following sections:
+The PowerPoint presentation (`MLBpredictions-realignment.pptx`) provides an overview of the code's functionality and the results of the prediction. It includes the following sections:
 
 1. Introduction
 2. Code Overview
@@ -83,7 +83,7 @@ The code is structured as follows:
 
 ## Presentation
 
-The PowerPoint presentation (`presentation.pptx`) provides an overview of the code's functionality and the results of the team realignment process. It includes the following sections:
+The PowerPoint presentation (`MLBpredictions-realignment.pptx`) provides an overview of the code's functionality and the results of the team realignment process. It includes the following sections:
 
 1. Introduction
 2. The Problem
