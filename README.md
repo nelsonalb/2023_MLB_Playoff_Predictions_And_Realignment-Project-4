@@ -105,14 +105,14 @@ The presentation is designed to be informative and visually appealing, making it
 
 Team statistics were collected from https://www.baseball-reference.com/
 
-# Constributors
+# Collaborators
 - Anna Garcia
 - Adolfo Linarez
 - Graham Jaeger
 - Lamin Burrow
 - Nelson Linarez
 
-# Technologies Used
+# Tools/Language Used
 - Python Pandas
 - Python Matplotlib
 - Tableau
